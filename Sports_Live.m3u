@@ -271,7 +271,7 @@ http://b1g.ooo:80/live/123480/123480/286963.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports35.png" group-title="LIVE | Sports Events", 35. Sports | No Event
 http://b1g.ooo:80/live/123480/123480/286964.ts
 
-#EXTINF:-1 tvg-id="EFL_Barnsley" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball1.png" group-title="LIVE | Football Events", 01. UEFA CL | League Draw Phase (Thu 17:00 UK)
+#EXTINF:-1 tvg-id="EFL_Barnsley" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball1.png" group-title="LIVE | Football Events", UEFA | 05 - Servette vs Chelsea
 http://b1g.ooo:80/live/123480/123480/174938.ts
 
 #EXTINF:-1 tvg-id="EFL_Barnsley" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball2.png" group-title="LIVE | Football Events", 02. UEFA CL | League Draw Phase (Thu 17:00 UK)
@@ -307,7 +307,7 @@ http://b1g.ooo:80/live/123480/123480/174946.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball12.png" group-title="LIVE | Football Events", 12. SPL | Al-Ittihad vs Al-Taawoun (Thu 19:00 UK)
 http://b1g.ooo:80/live/123480/123480/174945.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball13.png" group-title="LIVE | Football Events", 13. Football | No Event
+#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball13.png" group-title="LIVE | Football Events", 13. UEFA ECL | Servette vs Chelsea (Thu 19:45 UK)
 http://b1g.ooo:80/live/123480/123480/174944.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball14.png" group-title="LIVE | Football Events", 14. Football | No Event
