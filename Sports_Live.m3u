@@ -13,16 +13,16 @@ http://b1g.ooo:80/live/6073/6073/701060.ts
 #EXTINF:-1 tvg-id="tntsportboxoffice1.uk" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/09/TNTSBO.png" group-title="LIVE | PPV Events", TNT Sports Box Office HD
 http://b1g.ooo:80/live/6073/6073/701061.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Diego-Pacheco-vs-Maciej-Sulecki.jpeg" group-title="LIVE | PPV Events", BOXING: Diego Pacheco vs. Maciej Sulecki (Sun 00:30 UK)
+#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/UFC306.jpg" group-title="LIVE | PPV Events", UFC 306: Sean O'Malley vs. Merab Dvalishvili FHD (Sun 03:00 UK)
 http://b1g.ooo:80/live/6073/6073/323540.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Oliver-Quintana-vs.-Julio-Luna-Avila.jpeg" group-title="LIVE | PPV Events", BOXING: Oliver Quintana vs. Julio Luna Avila (Sun 01:00 UK)
+#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/UFC306.jpg" group-title="LIVE | PPV Events", UFC 306: Sean O'Malley vs. Merab Dvalishvili HD (Sun 03:00 UK)
 http://b1g.ooo:80/live/6073/6073/323541.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/WWE-Bash-in-Berlin1.jpeg" group-title="LIVE | PPV Events", WWE: Bash in Berlin (Sat 16:00 UK)
+#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/Canelo-Alvarez-vs.-Edgar-Berlanga.png" group-title="LIVE | PPV Events", BOXING: Canelo Alvarez vs. Edgar Berlanga (Sat)
 http://b1g.ooo:80/live/6073/6073/323542.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/NXT-No-Mercy.jpeg" group-title="LIVE | PPV Events", WWE: NXT No Mercy (Sun 23:00 UK)
+#EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="LIVE | PPV Events", BOXING: Jessica Camara vs. Bonnie Hunter (Sat)
 http://b1g.ooo:80/live/6073/6073/323545.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent-1.png" group-title="LIVE | PPV Events", LIVE EVENT 01 - NO EVENT
@@ -349,7 +349,7 @@ http://b1g.ooo:80/live/6073/6073/233905.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball26.png" group-title="LIVE | Football Events", 26. International Friendly | England U21 vs Austria U21 (Mon 19:45 UK)
 http://b1g.ooo:80/live/6073/6073/255948.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball27.png" group-title="LIVE | Football Events", 27. Football | No Event
+#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball27.png" group-title="LIVE | Football Events", 27. CAF | Angola vs Sudan (Mon 20:00 UK)
 http://b1g.ooo:80/live/6073/6073/286956.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball28.png" group-title="LIVE | Football Events", 28. Football | No Event
@@ -718,7 +718,7 @@ http://b1g.ooo:80/live/6073/6073/696478.ts
 #EXTINF:-1 tvg-id="SkySport8.nz" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/06/Sky-Sports-2.png" group-title="SPORTS | Optus / NZ Sky Sports", NZ | Sky Sports 8
 http://b1g.ooo:80/live/6073/6073/696479.ts
 
-#EXTINF:-1 tvg-id="SkySport9.nz" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/06/Sky-Sports-9.png" group-title="SPORTS | Optus / NZ Sky Sports", NZ | Sky Sports 9
+#EXTINF:-1 tvg-id="SkySport9.nz" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/06/Sky-Sports-9.png" group-title="SPORTS | Optus / NZ Sky Sports", NZ | Sky Sports 9
 http://b1g.ooo:80/live/6073/6073/696480.ts
 
 #EXTINF:-1 tvg-id="SkySportSelect.nz" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/06/Sky-Sports-Select.png" group-title="SPORTS | Optus / NZ Sky Sports", NZ | Sky Sports Select
@@ -769,14 +769,35 @@ http://b1g.ooo:80/live/6073/6073/400979.ts
 #EXTINF:-1 tvg-id="Peacock_10" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Peacock.png" group-title="SPORTS | Peacock", Peacock 10
 http://b1g.ooo:80/live/6073/6073/400980.ts
 
-#EXTINF:-1 tvg-id="Peacock_12" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Peacock.png" group-title="SPORTS | Peacock", Peacock 12
-http://b1g.ooo:80/live/6073/6073/699495.ts
-
 #EXTINF:-1 tvg-id="Peacock_11" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Peacock.png" group-title="SPORTS | Peacock", Peacock 11
 http://b1g.ooo:80/live/6073/6073/400981.ts
 
+#EXTINF:-1 tvg-id="Peacock_12" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Peacock.png" group-title="SPORTS | Peacock", Peacock 12
+http://b1g.ooo:80/live/6073/6073/699495.ts
+
 #EXTINF:-1 tvg-id="Peacock_13" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Peacock.png" group-title="SPORTS | Peacock", Peacock 13
 http://b1g.ooo:80/live/6073/6073/699496.ts
+
+#EXTINF:-1 tvg-id="Peacock_13" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Peacock.png" group-title="SPORTS | Peacock", Peacock 14
+http://b1g.ooo:80/live/6073/6073/835653.ts
+
+#EXTINF:-1 tvg-id="Peacock_13" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Peacock.png" group-title="SPORTS | Peacock", Peacock 15
+http://b1g.ooo:80/live/6073/6073/835667.ts
+
+#EXTINF:-1 tvg-id="Peacock_13" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Peacock.png" group-title="SPORTS | Peacock", Peacock 16
+http://b1g.ooo:80/live/6073/6073/835677.ts
+
+#EXTINF:-1 tvg-id="Peacock_13" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Peacock.png" group-title="SPORTS | Peacock", Peacock 17
+http://b1g.ooo:80/live/6073/6073/835679.ts
+
+#EXTINF:-1 tvg-id="Peacock_13" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Peacock.png" group-title="SPORTS | Peacock", Peacock 18
+http://b1g.ooo:80/live/6073/6073/835682.ts
+
+#EXTINF:-1 tvg-id="Peacock_13" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Peacock.png" group-title="SPORTS | Peacock", Peacock 19
+http://b1g.ooo:80/live/6073/6073/835684.ts
+
+#EXTINF:-1 tvg-id="Peacock_13" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Peacock.png" group-title="SPORTS | Peacock", Peacock 20
+http://b1g.ooo:80/live/6073/6073/835686.ts
 
 #EXTINF:-1 tvg-id="vidio01" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Vidio.png" group-title="SPORTS | Vidio", Vidio EPL 1 |
 http://b1g.ooo:80/live/6073/6073/634818.ts
