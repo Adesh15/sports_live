@@ -40,13 +40,13 @@ http://b1g.ooo:80/live/6073/6073/185092.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent5.png" group-title="LIVE | PPV Events", LIVE EVENT 05 - (SD) Canelo v Berlanga
 http://b1g.ooo:80/live/6073/6073/174932.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent6.png" group-title="LIVE | PPV Events", LIVE EVENT 06 - 6AM Eternal MMA 88
+#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent6.png" group-title="LIVE | PPV Events", LIVE EVENT 06 - NO EVENT
 http://b1g.ooo:80/live/6073/6073/174934.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent7.png" group-title="LIVE | PPV Events", LIVE EVENT 07 - 12PM Pavlov v Oliha
 http://b1g.ooo:80/live/6073/6073/174935.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent8.png" group-title="LIVE | PPV Events", LIVE EVENT 08 - 12:30PM Bellator Championshs Series London
+#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent8.png" group-title="LIVE | PPV Events", LIVE EVENT 08 - 2:00PM Bellator Championshs Series London
 http://b1g.ooo:80/live/6073/6073/174936.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent9.png" group-title="LIVE | PPV Events", LIVE EVENT 09 - 1PM KSW 98
@@ -88,7 +88,7 @@ http://b1g.ooo:80/live/6073/6073/233881.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent21.png" group-title="LIVE | PPV Events", LIVE EVENT 21 - 6PM Kubota High Limit Racing Lernerville
 http://b1g.ooo:80/live/6073/6073/233882.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent22.png" group-title="LIVE | PPV Events", LIVE EVENT 22 - :45PM IRA Sprints 141 Speedway
+#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent22.png" group-title="LIVE | PPV Events", LIVE EVENT 22 - 6:45PM IRA Sprints 141 Speedway
 http://b1g.ooo:80/live/6073/6073/233883.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent23.png" group-title="LIVE | PPV Events", LIVE EVENT 23 - 7:30PM Lucas Oil MLRA Davenport
@@ -373,7 +373,7 @@ http://b1g.ooo:80/live/6073/6073/697712.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/livefootball34.png" group-title="LIVE | Football Events", 34. Turkish Super Lig | Galatasaray vs Rizespor (Sat 18:00 UK)
 http://b1g.ooo:80/live/6073/6073/697711.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/livefootball35.png" group-title="LIVE | Football Events", 35. Liga Portugal | Benfica vs Santa Clara (Sat 20:30 UK)
+#EXTINF:-1 tvg-id="SuperSport1.al" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/livefootball35.png" group-title="LIVE | Football Events", 35. Liga Portugal | Benfica vs Santa Clara (Sat 20:30 UK)
 http://b1g.ooo:80/live/6073/6073/697710.ts
 
 #EXTINF:-1 tvg-id="NowSports4K.hk" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/Now-Sports-4K.png" group-title="LIVE | EPL Hub", EPL | Now Sports 4K
