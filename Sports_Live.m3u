@@ -25,13 +25,13 @@ http://b1g.ooo:80/live/6073/6073/323542.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/BOXING-Jaime-Munguia-vs-Erik-Bazinyan.jpeg" group-title="LIVE | PPV Events", BOXING: Jaime Munguia vs. Erik Bazinyan (Fri)
 http://b1g.ooo:80/live/6073/6073/323545.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent-1.png" group-title="LIVE | PPV Events", LIVE EVENT 01 -NO EVENT
+#EXTINF:-1 tvg-id="PPV01.rtv" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent-1.png" group-title="LIVE | PPV Events", LIVE EVENT 01 -NO EVENT
 http://b1g.ooo:80/live/6073/6073/185089.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent2.png" group-title="LIVE | PPV Events", LIVE EVENT 02 - NO EVENT
+#EXTINF:-1 tvg-id="PPV2.v3" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent2.png" group-title="LIVE | PPV Events", LIVE EVENT 02 - NO EVENT
 http://b1g.ooo:80/live/6073/6073/185090.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent3.png" group-title="LIVE | PPV Events", LIVE EVENT 03 - NO EVENT
+#EXTINF:-1 tvg-id="PPV03.art" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent3.png" group-title="LIVE | PPV Events", LIVE EVENT 03 - NO EVENT
 http://b1g.ooo:80/live/6073/6073/185091.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent4.png" group-title="LIVE | PPV Events", LIVE EVENT 04 - NO EVENT
@@ -127,7 +127,7 @@ http://b1g.ooo:80/live/6073/6073/233894.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent34.png" group-title="LIVE | PPV Events", LIVE EVENT 34 -
 http://b1g.ooo:80/live/6073/6073/287109.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveFite0.png" group-title="LIVE | PPV Events", FITE -  Fite TV 24/7
+#EXTINF:-1 tvg-id="FITE247.us" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveFite0.png" group-title="LIVE | PPV Events", FITE -  Fite TV 24/7
 http://b1g.ooo:80/live/6073/6073/239017.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveFite1.png" group-title="LIVE | PPV Events", FITE 01-ROH Wrestling: Episode #526 |  Tue 19th 12:00AM
@@ -172,10 +172,10 @@ http://b1g.ooo:80/live/6073/6073/356436.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports2.png" group-title="LIVE | Sports Events", 02. WTA Tour | Korea Open (Mon 04:00 UK)
 http://b1g.ooo:80/live/6073/6073/356437.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports3.png" group-title="LIVE | Sports Events", 03. WTA Tour | Guadalajara Open (Mon 00:30 UK)
+#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports3.png" group-title="LIVE | Sports Events", 03. WTA Tour | Thailand Open (Mon 05:00 UK)
 http://b1g.ooo:80/live/6073/6073/356438.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports4.png" group-title="LIVE | Sports Events", 04. WTA Tour | Guadalajara Open (Mon 00:30 UK)
+#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports4.png" group-title="LIVE | Sports Events", 04. WTA Tour | Thailand Open (Mon 05:00 UK)
 http://b1g.ooo:80/live/6073/6073/356439.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports5.png" group-title="LIVE | Sports Events", 05. WST | English Open (Mon 10:00/13:00/19:00 UK)
@@ -211,13 +211,13 @@ http://b1g.ooo:80/live/6073/6073/356449.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports15.png" group-title="LIVE | Sports Events", 15. WWE | Monday Night Raw (Tue 01:00 UK)
 http://b1g.ooo:80/live/6073/6073/356450.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports16.png" group-title="LIVE | Sports Events", 16. PGA Tour | Procore Championship (Sun 23:00 UK)
+#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports16.png" group-title="LIVE | Sports Events", 16. WWE | Monday Night Raw (Tue 01:00 UK)
 http://b1g.ooo:80/live/6073/6073/356451.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports17.png" group-title="LIVE | Sports Events", 17. PGA Tour | Procore Championship (Sun 23:00 UK)
+#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports17.png" group-title="LIVE | Sports Events", 17. WWE | Monday Night Raw (Tue 01:00 UK)
 http://b1g.ooo:80/live/6073/6073/356452.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports18.png" group-title="LIVE | Sports Events", 18. PGA Tour | Procore Championship (Sun 23:00 UK)
+#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports18.png" group-title="LIVE | Sports Events", 18. Sports | No Event
 http://b1g.ooo:80/live/6073/6073/356453.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports19.png" group-title="LIVE | Sports Events", 19. Sports | No Event
@@ -235,7 +235,7 @@ http://b1g.ooo:80/live/6073/6073/356457.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports23.png" group-title="LIVE | Sports Events", 23. Sports | No Event
 http://b1g.ooo:80/live/6073/6073/356458.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports24.png" group-title="LIVE | Sports Events", 24. Korn Ferry Tour | Simmons Bank Open (Sun 20:00 UK)
+#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports24.png" group-title="LIVE | Sports Events", 24. Sports | No Event
 http://b1g.ooo:80/live/6073/6073/356459.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports25.png" group-title="LIVE | Sports Events", 25. Sports | No Event
@@ -730,70 +730,70 @@ http://b1g.ooo:80/live/6073/6073/696480.ts
 #EXTINF:-1 tvg-id="SkySportSelect.nz" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/06/Sky-Sports-Select.png" group-title="SPORTS | Optus / NZ Sky Sports", NZ | Sky Sports Select
 http://b1g.ooo:80/live/6073/6073/697715.ts
 
-#EXTINF:-1 tvg-id="NBCSportsOnPeacock.us" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/PeacockNBCSports.png" group-title="SPORTS | Peacock", Peacock NBC Sports
+#EXTINF:-1 tvg-id="NBCSportsonPeacock.peacocktv" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/PeacockNBCSports.png" group-title="SPORTS | Peacock", Peacock NBC Sports
 http://b1g.ooo:80/live/6073/6073/405295.ts
 
-#EXTINF:-1 tvg-id="PremierLeague TV.us" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/PeacockPL.png" group-title="SPORTS | Peacock", Peacock Premier League
+#EXTINF:-1 tvg-id="PremierLeagueTV.peacocktv" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/PeacockPL.png" group-title="SPORTS | Peacock", Peacock Premier League
 http://b1g.ooo:80/live/6073/6073/405294.ts
 
-#EXTINF:-1 tvg-id="GolfPass.us" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/PeacockGolf.png" group-title="SPORTS | Peacock", Peacock Golf Pass
+#EXTINF:-1 tvg-id="GolfPass.peacocktv" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/PeacockGolf.png" group-title="SPORTS | Peacock", Peacock Golf Pass
 http://b1g.ooo:80/live/6073/6073/405297.ts
 
-#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/PeacockNFL.png" group-title="SPORTS | Peacock", Peacock NFL Pass
+#EXTINF:-1 tvg-id="NFLChannel.peacocktv" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/PeacockNFL.png" group-title="SPORTS | Peacock", Peacock NFL Pass
 http://b1g.ooo:80/live/6073/6073/405296.ts
 
-#EXTINF:-1 tvg-id="WWE.us" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/PeacockWWE.png" group-title="SPORTS | Peacock", Peacock WWE Pass
+#EXTINF:-1 tvg-id="WWENetwork.peacocktv" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/PeacockWWE.png" group-title="SPORTS | Peacock", Peacock WWE Pass
 http://b1g.ooo:80/live/6073/6073/405298.ts
 
-#EXTINF:-1 tvg-id="peacock01" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Peacock.png" group-title="SPORTS | Peacock", Peacock 01
+#EXTINF:-1 tvg-id="Peacock1.peacock" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Peacock.png" group-title="SPORTS | Peacock", Peacock 01
 http://b1g.ooo:80/live/6073/6073/400971.ts
 
-#EXTINF:-1 tvg-id="peacock02" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Peacock.png" group-title="SPORTS | Peacock", Peacock 02
+#EXTINF:-1 tvg-id="Peacock2.peacock" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Peacock.png" group-title="SPORTS | Peacock", Peacock 02
 http://b1g.ooo:80/live/6073/6073/400972.ts
 
-#EXTINF:-1 tvg-id="peacock03" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Peacock.png" group-title="SPORTS | Peacock", Peacock 03
+#EXTINF:-1 tvg-id="Peacock3.peacock" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Peacock.png" group-title="SPORTS | Peacock", Peacock 03
 http://b1g.ooo:80/live/6073/6073/400973.ts
 
-#EXTINF:-1 tvg-id="peacock04" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Peacock.png" group-title="SPORTS | Peacock", Peacock 04
+#EXTINF:-1 tvg-id="Peacock4.peacock" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Peacock.png" group-title="SPORTS | Peacock", Peacock 04
 http://b1g.ooo:80/live/6073/6073/400974.ts
 
-#EXTINF:-1 tvg-id="peacock05" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Peacock.png" group-title="SPORTS | Peacock", Peacock 05
+#EXTINF:-1 tvg-id="Peacock5.peacock" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Peacock.png" group-title="SPORTS | Peacock", Peacock 05
 http://b1g.ooo:80/live/6073/6073/400975.ts
 
-#EXTINF:-1 tvg-id="peacock06" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Peacock.png" group-title="SPORTS | Peacock", Peacock 06
+#EXTINF:-1 tvg-id="Peacock6.peacock" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Peacock.png" group-title="SPORTS | Peacock", Peacock 06
 http://b1g.ooo:80/live/6073/6073/400976.ts
 
-#EXTINF:-1 tvg-id="peacock07" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Peacock.png" group-title="SPORTS | Peacock", Peacock 07
+#EXTINF:-1 tvg-id="Peacock7.peacock" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Peacock.png" group-title="SPORTS | Peacock", Peacock 07
 http://b1g.ooo:80/live/6073/6073/400977.ts
 
-#EXTINF:-1 tvg-id="peacock08" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Peacock.png" group-title="SPORTS | Peacock", Peacock 08
+#EXTINF:-1 tvg-id="Peacock8.peacock" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Peacock.png" group-title="SPORTS | Peacock", Peacock 08
 http://b1g.ooo:80/live/6073/6073/400978.ts
 
-#EXTINF:-1 tvg-id="peacock09" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Peacock.png" group-title="SPORTS | Peacock", Peacock 09
+#EXTINF:-1 tvg-id="Peacock9.peacock" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Peacock.png" group-title="SPORTS | Peacock", Peacock 09
 http://b1g.ooo:80/live/6073/6073/400979.ts
 
-#EXTINF:-1 tvg-id="peacock10" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Peacock.png" group-title="SPORTS | Peacock", Peacock 10
+#EXTINF:-1 tvg-id="Peacock10.peacock" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Peacock.png" group-title="SPORTS | Peacock", Peacock 10
 http://b1g.ooo:80/live/6073/6073/400980.ts
 
-#EXTINF:-1 tvg-id="peacock11" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Peacock.png" group-title="SPORTS | Peacock", Peacock 11
+#EXTINF:-1 tvg-id="Peacock11.peacock" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Peacock.png" group-title="SPORTS | Peacock", Peacock 11
 http://b1g.ooo:80/live/6073/6073/400981.ts
 
-#EXTINF:-1 tvg-id="Peacock_12" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Peacock.png" group-title="SPORTS | Peacock", Peacock 12
+#EXTINF:-1 tvg-id="Peacock12.peacock" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Peacock.png" group-title="SPORTS | Peacock", Peacock 12
 http://b1g.ooo:80/live/6073/6073/699495.ts
 
-#EXTINF:-1 tvg-id="Peacock_13" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Peacock.png" group-title="SPORTS | Peacock", Peacock 13
+#EXTINF:-1 tvg-id="Peacock13.peacock" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Peacock.png" group-title="SPORTS | Peacock", Peacock 13
 http://b1g.ooo:80/live/6073/6073/699496.ts
 
-#EXTINF:-1 tvg-id="Peacock_13" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Peacock.png" group-title="SPORTS | Peacock", Peacock 14
+#EXTINF:-1 tvg-id="Peacock14.peacock" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Peacock.png" group-title="SPORTS | Peacock", Peacock 14
 http://b1g.ooo:80/live/6073/6073/835653.ts
 
-#EXTINF:-1 tvg-id="Peacock_13" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Peacock.png" group-title="SPORTS | Peacock", Peacock 15
+#EXTINF:-1 tvg-id="Peacock15.peacock" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Peacock.png" group-title="SPORTS | Peacock", Peacock 15
 http://b1g.ooo:80/live/6073/6073/835667.ts
 
-#EXTINF:-1 tvg-id="Peacock_13" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Peacock.png" group-title="SPORTS | Peacock", Peacock 16
+#EXTINF:-1 tvg-id="Peacock16.peacock" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Peacock.png" group-title="SPORTS | Peacock", Peacock 16
 http://b1g.ooo:80/live/6073/6073/835677.ts
 
-#EXTINF:-1 tvg-id="Peacock_13" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Peacock.png" group-title="SPORTS | Peacock", Peacock 17
+#EXTINF:-1 tvg-id="Peacock17.peacock" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Peacock.png" group-title="SPORTS | Peacock", Peacock 17
 http://b1g.ooo:80/live/6073/6073/835679.ts
 
 #EXTINF:-1 tvg-id="Peacock_13" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Peacock.png" group-title="SPORTS | Peacock", Peacock 18
