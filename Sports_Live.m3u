@@ -28,7 +28,7 @@ http://b1g.ooo:80/live/6073/6073/323545.ts
 #EXTINF:-1 tvg-id="PPV01.rtv" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent-1.png" group-title="LIVE | PPV Events", LIVE EVENT 01 - 6:10PM Munguia v Bazinyan
 http://b1g.ooo:80/live/6073/6073/185089.ts
 
-#EXTINF:-1 tvg-id="PPV02.rtv" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent2.png" group-title="LIVE | PPV Events", LIVE EVENT 02 - 8:30AM One Friday Fights 80 Rak v Yodnumchai
+#EXTINF:-1 tvg-id="PPV02.rtv" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent2.png" group-title="LIVE | PPV Events", LIVE EVENT 02 - NO EVENT
 http://b1g.ooo:80/live/6073/6073/185090.ts
 
 #EXTINF:-1 tvg-id="PPV03.rtv" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent3.png" group-title="LIVE | PPV Events", LIVE EVENT 03 - 11:30AM PFL Mena 3
@@ -280,10 +280,10 @@ http://b1g.ooo:80/live/6073/6073/174939.ts
 #EXTINF:-1 tvg-id="EFL_Barnsley" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball3.png" group-title="LIVE | Football Events", 03. Serie A | Cagliari vs Empoli (Fri 17:30 UK)
 http://b1g.ooo:80/live/6073/6073/174940.ts
 
-#EXTINF:-1 tvg-id="EFL_Barnsley" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball4.png" group-title="LIVE | Football Events", 04. Serie A | Verona vs Torino (Fri 17:30 UK)
+#EXTINF:-1 tvg-id="EFL_Barnsley" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball4.png" group-title="LIVE | Football Events", 04. Serie A | Verona vs Torino (Fri 19:45 UK)
 http://b1g.ooo:80/live/6073/6073/174941.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball5.png" group-title="LIVE | Football Events", 05. Serie A | Verona vs Torino (Fri 17:30 UK)
+#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball5.png" group-title="LIVE | Football Events", 05. Serie A | Verona vs Torino (Fri 19:45 UK)
 http://b1g.ooo:80/live/6073/6073/174952.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball6.png" group-title="LIVE | Football Events", 06. Bundesliga | Augsburg vs Mainz (Fri 19:30 UK)
@@ -835,124 +835,124 @@ http://b1g.ooo:80/live/6073/6073/625421.ts
 #EXTINF:-1 tvg-id="beINSPORTS5.sg" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Star-Hub.png" group-title="SPORTS | Hub Sports", SG | beIN Sports 5
 http://b1g.ooo:80/live/6073/6073/625420.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+", Sky Sports+ 01 (Live Event Only)
+#EXTINF:-1 tvg-id="SkySports+1.Vig" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+", Sky Sports+ 01 (Live Event Only)
 http://b1g.ooo:80/live/6073/6073/824592.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+", Sky Sports+ 02 (Live Event Only)
+#EXTINF:-1 tvg-id="SkySports+2.Vig" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+", Sky Sports+ 02 (Live Event Only)
 http://b1g.ooo:80/live/6073/6073/824591.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+", Sky Sports+ 03 (Live Event Only)
+#EXTINF:-1 tvg-id="SkySports+3.Vig" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+", Sky Sports+ 03 (Live Event Only)
 http://b1g.ooo:80/live/6073/6073/824590.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+", Sky Sports+ 04 (Live Event Only)
+#EXTINF:-1 tvg-id="SkySports+4.Vig" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+", Sky Sports+ 04 (Live Event Only)
 http://b1g.ooo:80/live/6073/6073/824589.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+", Sky Sports+ 05 (Live Event Only)
+#EXTINF:-1 tvg-id="SkySports+5.Vig" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+", Sky Sports+ 05 (Live Event Only)
 http://b1g.ooo:80/live/6073/6073/824588.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+", Sky Sports+ 06 (Live Event Only)
+#EXTINF:-1 tvg-id="SkySports+6.Vig" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+", Sky Sports+ 06 (Live Event Only)
 http://b1g.ooo:80/live/6073/6073/824587.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+", Sky Sports+ 07 (Live Event Only)
+#EXTINF:-1 tvg-id="SkySports+7.Vig" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+", Sky Sports+ 07 (Live Event Only)
 http://b1g.ooo:80/live/6073/6073/824586.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+", Sky Sports+ 08 (Live Event Only)
+#EXTINF:-1 tvg-id="SkySports+8.Vig" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+", Sky Sports+ 08 (Live Event Only)
 http://b1g.ooo:80/live/6073/6073/824585.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+", Sky Sports+ 09 (Live Event Only)
+#EXTINF:-1 tvg-id="SkySports+9.Vig" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+", Sky Sports+ 09 (Live Event Only)
 http://b1g.ooo:80/live/6073/6073/824584.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+", Sky Sports+ 10 (Live Event Only)
+#EXTINF:-1 tvg-id="SkySports+10.Vig" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+", Sky Sports+ 10 (Live Event Only)
 http://b1g.ooo:80/live/6073/6073/824583.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+", Sky Sports+ 11 (Live Event Only)
+#EXTINF:-1 tvg-id="SkySports+11.Vig" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+", Sky Sports+ 11 (Live Event Only)
 http://b1g.ooo:80/live/6073/6073/824582.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+", Sky Sports+ 12 (Live Event Only)
+#EXTINF:-1 tvg-id="SkySports+12.Vig" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+", Sky Sports+ 12 (Live Event Only)
 http://b1g.ooo:80/live/6073/6073/824581.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+", Sky Sports+ 13 (Live Event Only)
+#EXTINF:-1 tvg-id="SkySports+13.Vig" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+", Sky Sports+ 13 (Live Event Only)
 http://b1g.ooo:80/live/6073/6073/824580.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+", Sky Sports+ 14 (Live Event Only)
+#EXTINF:-1 tvg-id="SkySports+14.Vig" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+", Sky Sports+ 14 (Live Event Only)
 http://b1g.ooo:80/live/6073/6073/824579.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+", Sky Sports+ 15 (Live Event Only)
+#EXTINF:-1 tvg-id="SkySports+15.Vig" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+", Sky Sports+ 15 (Live Event Only)
 http://b1g.ooo:80/live/6073/6073/824578.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+", Sky Sports+ 16 (Live Event Only)
+#EXTINF:-1 tvg-id="SkySports+16.Vig" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+", Sky Sports+ 16 (Live Event Only)
 http://b1g.ooo:80/live/6073/6073/824577.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+", Sky Sports+ 17 (Live Event Only)
+#EXTINF:-1 tvg-id="SkySports+17.Vig" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+", Sky Sports+ 17 (Live Event Only)
 http://b1g.ooo:80/live/6073/6073/824576.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+", Sky Sports+ 18 (Live Event Only)
+#EXTINF:-1 tvg-id="SkySports+18.Vig" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+", Sky Sports+ 18 (Live Event Only)
 http://b1g.ooo:80/live/6073/6073/824575.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+", Sky Sports+ 19 (Live Event Only)
+#EXTINF:-1 tvg-id="SkySports+19.Vig" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+", Sky Sports+ 19 (Live Event Only)
 http://b1g.ooo:80/live/6073/6073/824574.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+", Sky Sports+ 20 (Live Event Only)
+#EXTINF:-1 tvg-id="SkySports+20.Vig" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+", Sky Sports+ 20 (Live Event Only)
 http://b1g.ooo:80/live/6073/6073/824573.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+", Sky Sports+ 21 (Live Event Only)
+#EXTINF:-1 tvg-id="SkySports+21.Vig" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+", Sky Sports+ 21 (Live Event Only)
 http://b1g.ooo:80/live/6073/6073/824572.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+", Sky Sports+ 22 (Live Event Only)
+#EXTINF:-1 tvg-id="SkySports+22.Vig" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+", Sky Sports+ 22 (Live Event Only)
 http://b1g.ooo:80/live/6073/6073/824571.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+", Sky Sports+ 23 (Live Event Only)
+#EXTINF:-1 tvg-id="SkySports+23.Vig" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+", Sky Sports+ 23 (Live Event Only)
 http://b1g.ooo:80/live/6073/6073/824570.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+", Sky Sports+ 24 (Live Event Only)
+#EXTINF:-1 tvg-id="SkySports+24.Vig" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+", Sky Sports+ 24 (Live Event Only)
 http://b1g.ooo:80/live/6073/6073/824569.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+", Sky Sports+ 25 (Live Event Only)
+#EXTINF:-1 tvg-id="SkySports+25.Vig" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+", Sky Sports+ 25 (Live Event Only)
 http://b1g.ooo:80/live/6073/6073/824568.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+", Sky Sports+ 26 (Live Event Only)
+#EXTINF:-1 tvg-id="SkySports+26.Vig" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+", Sky Sports+ 26 (Live Event Only)
 http://b1g.ooo:80/live/6073/6073/824567.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+", Sky Sports+ 27 (Live Event Only)
+#EXTINF:-1 tvg-id="SkySports+27.Vig" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+", Sky Sports+ 27 (Live Event Only)
 http://b1g.ooo:80/live/6073/6073/824566.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+", Sky Sports+ 28 (Live Event Only)
+#EXTINF:-1 tvg-id="SkySports+28.Vig" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+", Sky Sports+ 28 (Live Event Only)
 http://b1g.ooo:80/live/6073/6073/824565.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+", Sky Sports+ 29 (Live Event Only)
+#EXTINF:-1 tvg-id="SkySports+29.Vig" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+", Sky Sports+ 29 (Live Event Only)
 http://b1g.ooo:80/live/6073/6073/824564.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+", Sky Sports+ 30 (Live Event Only)
+#EXTINF:-1 tvg-id="SkySports+30.Vig" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+", Sky Sports+ 30 (Live Event Only)
 http://b1g.ooo:80/live/6073/6073/824563.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+", Sky Sports+ 31 (Live Event Only)
+#EXTINF:-1 tvg-id="SkySports+31.Vig" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+", Sky Sports+ 31 (Live Event Only)
 http://b1g.ooo:80/live/6073/6073/824562.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+", Sky Sports+ 32 (Live Event Only)
+#EXTINF:-1 tvg-id="SkySports+32.Vig" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+", Sky Sports+ 32 (Live Event Only)
 http://b1g.ooo:80/live/6073/6073/824561.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+", Sky Sports+ 33 (Live Event Only)
+#EXTINF:-1 tvg-id="SkySports+33.Vig" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+", Sky Sports+ 33 (Live Event Only)
 http://b1g.ooo:80/live/6073/6073/824560.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+", Sky Sports+ 34 (Live Event Only)
+#EXTINF:-1 tvg-id="SkySports+34.Vig" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+", Sky Sports+ 34 (Live Event Only)
 http://b1g.ooo:80/live/6073/6073/824559.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+", Sky Sports+ 35 (Live Event Only)
+#EXTINF:-1 tvg-id="SkySports+35.Vig" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+", Sky Sports+ 35 (Live Event Only)
 http://b1g.ooo:80/live/6073/6073/824558.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+", Sky Sports+ 36 (Live Event Only)
+#EXTINF:-1 tvg-id="SkySports+36.Vig" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+", Sky Sports+ 36 (Live Event Only)
 http://b1g.ooo:80/live/6073/6073/824557.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+", Sky Sports+ 37 (Live Event Only)
+#EXTINF:-1 tvg-id="SkySports+37.Vig" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+", Sky Sports+ 37 (Live Event Only)
 http://b1g.ooo:80/live/6073/6073/824556.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+", Sky Sports+ 38 (Live Event Only)
+#EXTINF:-1 tvg-id="SkySports+38.Vig" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+", Sky Sports+ 38 (Live Event Only)
 http://b1g.ooo:80/live/6073/6073/824555.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+", Sky Sports+ 39 (Live Event Only)
+#EXTINF:-1 tvg-id="SkySports+39.Vig" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+", Sky Sports+ 39 (Live Event Only)
 http://b1g.ooo:80/live/6073/6073/824554.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+", Sky Sports+ 40 (Live Event Only)
+#EXTINF:-1 tvg-id="SkySports+40.Vig" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports.png" group-title="UK | Sky Sports+", Sky Sports+ 40 (Live Event Only)
 http://b1g.ooo:80/live/6073/6073/824553.ts
 
 #EXTINF:-1 tvg-id="TNTSportsUltimate.uk" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/TNT-4K.png" group-title="UK | TNT Sports", UK-TNT Sports Ultimate 4K HDR
