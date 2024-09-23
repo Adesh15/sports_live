@@ -28,7 +28,7 @@ http://b1g.ooo:80/live/6073/6073/323545.ts
 #EXTINF:-1 tvg-id="PPV01.rtv" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent-1.png" group-title="LIVE | PPV Events", LIVE EVENT 01 - NO EVENT
 http://b1g.ooo:80/live/6073/6073/185089.ts
 
-#EXTINF:-1 tvg-id="PPV02.rtv" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent2.png" group-title="LIVE | PPV Events", LIVE EVENT 02 - 8PM USRA Nationals Lucas Oil
+#EXTINF:-1 tvg-id="PPV02.rtv" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent2.png" group-title="LIVE | PPV Events", LIVE EVENT 02 -NO EVENT
 http://b1g.ooo:80/live/6073/6073/185090.ts
 
 #EXTINF:-1 tvg-id="PPV03.rtv" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent3.png" group-title="LIVE | PPV Events", LIVE EVENT 03 - NO EVENT
@@ -166,97 +166,97 @@ http://b1g.ooo:80/live/6073/6073/239035.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveFite12.png" group-title="LIVE | PPV Events", FITE TV 12:
 http://b1g.ooo:80/live/6073/6073/239036.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports1.png" group-title="LIVE | Sports Events", 01. WTA Tour | Korea Open (Sun 08:00 UK)
+#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports1.png" group-title="LIVE | Sports Events", 01. ATP Tour | Hangzhou Open (Mon 10:00 UK)
 http://b1g.ooo:80/live/6073/6073/356436.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports2.png" group-title="LIVE | Sports Events", 02. WTA Tour | Korea Open (Sun 08:00 UK)
+#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports2.png" group-title="LIVE | Sports Events", 02. ATP Tour | Hangzhou Open (Mon 10:00 UK)
 http://b1g.ooo:80/live/6073/6073/356437.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports3.png" group-title="LIVE | Sports Events", 03. WTA Tour | Thailand Open (Sun 10:00 UK)
+#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports3.png" group-title="LIVE | Sports Events", 03. Snooker | British Open (Mon 13:00/19:00 UK)
 http://b1g.ooo:80/live/6073/6073/356438.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports4.png" group-title="LIVE | Sports Events", 04. ATP Tour | Hangzhou Open (Sun 06:30 UK)
+#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports4.png" group-title="LIVE | Sports Events", 04. Snooker | British Open (Mon 13:00/19:00 UK)
 http://b1g.ooo:80/live/6073/6073/356439.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports5.png" group-title="LIVE | Sports Events", 05. ATP Tour | Hangzhou Open (Sun 06:30 UK)
+#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports5.png" group-title="LIVE | Sports Events", 05. WWE | Monday Night Raw (Tue 01:00 UK)
 http://b1g.ooo:80/live/6073/6073/356440.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports6.png" group-title="LIVE | Sports Events", 06. WST | English Open (Sun 12:45/18:45 UK)
+#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports6.png" group-title="LIVE | Sports Events", 06. WWE | Monday Night Raw (Tue 01:00 UK)
 http://b1g.ooo:80/live/6073/6073/356441.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports7.png" group-title="LIVE | Sports Events", 07. DP World Tour | BMW PGA Championship (Sun 09:00/12:00 UK)
+#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports7.png" group-title="LIVE | Sports Events", 07. WWE | Monday Night Raw (Tue 01:00 UK)
 http://b1g.ooo:80/live/6073/6073/356442.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports8.png" group-title="LIVE | Sports Events", 08. DP World Tour | BMW PGA Championship (Sun 09:00/12:00 UK)
+#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports8.png" group-title="LIVE | Sports Events", 08. Sports | No Event
 http://b1g.ooo:80/live/6073/6073/356443.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports9.png" group-title="LIVE | Sports Events", 09. DP World Tour | BMW PGA Championship (Sun 09:00/12:00 UK)
+#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports9.png" group-title="LIVE | Sports Events", 09. Sports | No Event
 http://b1g.ooo:80/live/6073/6073/356444.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports10.png" group-title="LIVE | Sports Events", 10. LPGA | Kroger Queen City Championship (Sun 18:00 UK)
+#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports10.png" group-title="LIVE | Sports Events", 10. Sports | No Event
 http://b1g.ooo:80/live/6073/6073/356445.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports11.png" group-title="LIVE | Sports Events", 11. LPGA | Kroger Queen City Championship (Sun 18:00 UK)
+#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports11.png" group-title="LIVE | Sports Events", 11. Sports | No Event
 http://b1g.ooo:80/live/6073/6073/356446.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports12.png" group-title="LIVE | Sports Events", 12. LPGA | Kroger Queen City Championship (Sun 18:00 UK)
+#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports12.png" group-title="LIVE | Sports Events", 12. Sports | No Event
 http://b1g.ooo:80/live/6073/6073/356447.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports13.png" group-title="LIVE | Sports Events", 13. Liv Golf | Team Championship Dallas (Sun 17:15 UK)
+#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports13.png" group-title="LIVE | Sports Events", 13. Sports | No Event
 http://b1g.ooo:80/live/6073/6073/356448.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports14.png" group-title="LIVE | Sports Events", 14. Liv Golf | Team Championship Dallas (Sun 17:15 UK)
+#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports14.png" group-title="LIVE | Sports Events", 14. Sports | No Event
 http://b1g.ooo:80/live/6073/6073/356449.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports15.png" group-title="LIVE | Sports Events", 15. Liv Golf | Team Championship Dallas (Sun 17:15 UK)
+#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports15.png" group-title="LIVE | Sports Events", 15. Sports | No Event
 http://b1g.ooo:80/live/6073/6073/356450.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports16.png" group-title="LIVE | Sports Events", 16. Liv Golf | Team Championship Dallas (Sun 17:15 UK)
+#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports16.png" group-title="LIVE | Sports Events", 16. Sports | No Event
 http://b1g.ooo:80/live/6073/6073/356451.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports17.png" group-title="LIVE | Sports Events", 17. PGA Tour Champions | Pure Insurance Championship (Sun 23:00 UK)
+#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports17.png" group-title="LIVE | Sports Events", 17. Sports | No Event
 http://b1g.ooo:80/live/6073/6073/356452.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports18.png" group-title="LIVE | Sports Events", 18. PGA Tour Champions | Pure Insurance Championship (Sun 23:00 UK)
+#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports18.png" group-title="LIVE | Sports Events", 18. Sports | No Event
 http://b1g.ooo:80/live/6073/6073/356453.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports19.png" group-title="LIVE | Sports Events", 19. PGA Tour Champions | Pure Insurance Championship (Sun 23:00 UK)
+#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports19.png" group-title="LIVE | Sports Events", 19. Sports | No Event
 http://b1g.ooo:80/live/6073/6073/356454.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports20.png" group-title="LIVE | Sports Events", 20. LET | La Sella Open (Sun 13:00 UK)
+#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports20.png" group-title="LIVE | Sports Events", 20. Sports | No Event
 http://b1g.ooo:80/live/6073/6073/356455.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports21.png" group-title="LIVE | Sports Events", 21. LET | La Sella Open (Sun 13:00 UK)
+#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports21.png" group-title="LIVE | Sports Events", 21. Sports | No Event
 http://b1g.ooo:80/live/6073/6073/356456.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports22.png" group-title="LIVE | Sports Events", 22. Korn Ferry Tour | NCH Championship (Sun 21:00 UK)
+#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports22.png" group-title="LIVE | Sports Events", 22. Sports | No Event
 http://b1g.ooo:80/live/6073/6073/356457.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports23.png" group-title="LIVE | Sports Events", 23. Korn Ferry Tour | NCH Championship (Sun 21:00 UK)
+#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports23.png" group-title="LIVE | Sports Events", 23. Sports | No Event
 http://b1g.ooo:80/live/6073/6073/356458.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports24.png" group-title="LIVE | Sports Events", 24. Laver Cup | Team Europe vs Team World (Sat 12:00/18:00 UK)
+#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports24.png" group-title="LIVE | Sports Events", 24. Sports | No Event
 http://b1g.ooo:80/live/6073/6073/356459.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports25.png" group-title="LIVE | Sports Events", 25. Laver Cup | Team Europe vs Team World (Sun 11:00 UK)
+#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports25.png" group-title="LIVE | Sports Events", 25. Sports | No Event
 http://b1g.ooo:80/live/6073/6073/356460.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports26.png" group-title="LIVE | Sports Events", 26. Laver Cup | Team Europe vs Team World (Sun 11:00 UK)
+#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports26.png" group-title="LIVE | Sports Events", 26. Sports | No Event
 http://b1g.ooo:80/live/6073/6073/356461.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports27.png" group-title="LIVE | Sports Events", 27. Laver Cup | Team Europe vs Team World (Sun 11:00 UK)
+#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports27.png" group-title="LIVE | Sports Events", 27. Sports | No Event
 http://b1g.ooo:80/live/6073/6073/356462.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports28.png" group-title="LIVE | Sports Events", 28. Badminton | China Open (Sun 03:00 UK)
+#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports28.png" group-title="LIVE | Sports Events", 28. Sports | No Event
 http://b1g.ooo:80/live/6073/6073/356463.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports29.png" group-title="LIVE | Sports Events", 29. Badminton | China Open (Sun 03:00 UK)
+#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports29.png" group-title="LIVE | Sports Events", 29. Sports | No Event
 http://b1g.ooo:80/live/6073/6073/356464.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports30.png" group-title="LIVE | Sports Events", 30. Badminton | China Open (Sun 03:00 UK)
+#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports30.png" group-title="LIVE | Sports Events", 30. Sports | No Event
 http://b1g.ooo:80/live/6073/6073/356465.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports31.png" group-title="LIVE | Sports Events", 31. Sailing | America Cup (Sun 13:00 UK)
+#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports31.png" group-title="LIVE | Sports Events", 31. Sports | No Event
 http://b1g.ooo:80/live/6073/6073/286960.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports32.png" group-title="LIVE | Sports Events", 32. Sports | No Event
@@ -271,64 +271,64 @@ http://b1g.ooo:80/live/6073/6073/286963.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livesports35.png" group-title="LIVE | Sports Events", 35. Sports | No Event
 http://b1g.ooo:80/live/6073/6073/286964.ts
 
-#EXTINF:-1 tvg-id="EFL_Barnsley" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball1.png" group-title="LIVE | Football Events", 01. Premier Sports Cup | Celtic vs Falkirk (Sun 15:00 UK)
+#EXTINF:-1 tvg-id="EFL_Barnsley" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball1.png" group-title="LIVE | Football Events", 01. Serie A | Atalanta vs Como (Mon 19:45 UK)
 http://b1g.ooo:80/live/6073/6073/174938.ts
 
-#EXTINF:-1 tvg-id="EFL_Barnsley" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball2.png" group-title="LIVE | Football Events", 02. Premier Sports Cup | Celtic vs Falkirk (Sun 15:00 UK)
+#EXTINF:-1 tvg-id="EFL_Barnsley" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball2.png" group-title="LIVE | Football Events", 02. Serie A | Atalanta vs Como (Mon 19:45 UK)
 http://b1g.ooo:80/live/6073/6073/174939.ts
 
-#EXTINF:-1 tvg-id="EFL_Barnsley" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball3.png" group-title="LIVE | Football Events", 03. Serie A | Fiorentina vs Lazio (Sun 11:30 UK)
+#EXTINF:-1 tvg-id="EFL_Barnsley" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball3.png" group-title="LIVE | Football Events", 03. Primeria Liga | Boavista vs Benfica (Mon 20:15 UK)
 http://b1g.ooo:80/live/6073/6073/174940.ts
 
-#EXTINF:-1 tvg-id="EFL_Barnsley" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball4.png" group-title="LIVE | Football Events", 04. Serie A | Fiorentina vs Lazio (Sun 11:30 UK)
+#EXTINF:-1 tvg-id="EFL_Barnsley" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball4.png" group-title="LIVE | Football Events", 04. Primeria Liga | Boavista vs Benfica (Mon 20:15 UK)
 http://b1g.ooo:80/live/6073/6073/174941.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball5.png" group-title="LIVE | Football Events", 05. Serie A | Monza vs Bologna (Sun 14:00 UK)
+#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball5.png" group-title="LIVE | Football Events", 05. Football | No Event
 http://b1g.ooo:80/live/6073/6073/174952.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball6.png" group-title="LIVE | Football Events", 06.  Serie A | Monza vs Bologna (Sun 14:00 UK)
+#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball6.png" group-title="LIVE | Football Events", 06.  Football | No Event
 http://b1g.ooo:80/live/6073/6073/174951.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball7.png" group-title="LIVE | Football Events", 07. Serie A | AS Roma vs Udinese (Sun 17:00 UK)
+#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball7.png" group-title="LIVE | Football Events", 07. Football | No Event
 http://b1g.ooo:80/live/6073/6073/174950.ts
 
-#EXTINF:-1 tvg-id="UCL_UEL.2" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball8.png" group-title="LIVE | Football Events", 08. Serie A | AS Roma vs Udinese (Sun 17:00 UK)
+#EXTINF:-1 tvg-id="UCL_UEL.2" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball8.png" group-title="LIVE | Football Events", 08. Football | No Event
 http://b1g.ooo:80/live/6073/6073/174949.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball9.png" group-title="LIVE | Football Events", 09. Serie A | Inter vs AC Milan (Sun 19:45 UK)
+#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball9.png" group-title="LIVE | Football Events", 09. Football | No Event
 http://b1g.ooo:80/live/6073/6073/174948.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball10.png" group-title="LIVE | Football Events", 10.Serie A | Inter vs AC Milan (Sun 19:45 UK)
+#EXTINF:-1 tvg-id="" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball10.png" group-title="LIVE | Football Events", 10. Football | No Event
 http://b1g.ooo:80/live/6073/6073/174947.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball11.png" group-title="LIVE | Football Events", 11. Bundesliga | Leverkusen vs Wolfsburg (Sun 14:30 UK)
+#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball11.png" group-title="LIVE | Football Events", 11. Football | No Event
 http://b1g.ooo:80/live/6073/6073/174946.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball12.png" group-title="LIVE | Football Events", 12. Bundesliga | Leverkusen vs Wolfsburg (Sun 14:30 UK)
+#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball12.png" group-title="LIVE | Football Events", 12. Football | No Event
 http://b1g.ooo:80/live/6073/6073/174945.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball13.png" group-title="LIVE | Football Events", 13. Bundesliga | Stuttgart vs Dortmund (Sun 16:30 UK)
+#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball13.png" group-title="LIVE | Football Events", 13. Football | No Event
 http://b1g.ooo:80/live/6073/6073/174944.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball14.png" group-title="LIVE | Football Events", 14. Bundesliga | Stuttgart vs Dortmund (Sun 16:30 UK)
+#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball14.png" group-title="LIVE | Football Events", 14. Football | No Event
 http://b1g.ooo:80/live/6073/6073/233895.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball15.png" group-title="LIVE | Football Events", 15. Bundesliga | St Pauli vs RB Leipzig (Sun 18:30 UK)
+#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball15.png" group-title="LIVE | Football Events", 15. Football | No Event
 http://b1g.ooo:80/live/6073/6073/233896.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball16.png" group-title="LIVE | Football Events", 16. Bundesliga | St Pauli vs RB Leipzig (Sun 18:30 UK)
+#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball16.png" group-title="LIVE | Football Events", 16. Football | No Event
 http://b1g.ooo:80/live/6073/6073/233897.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball17.png" group-title="LIVE | Football Events", 17. Eredivisie | Feyenoord vs NEC (Sun 13:30 UK)
+#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball17.png" group-title="LIVE | Football Events", 17. Football | No Event
 http://b1g.ooo:80/live/6073/6073/233898.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball18.png" group-title="LIVE | Football Events", 18. Eredivisie | Feyenoord vs NEC (Sun 13:30 UK)
+#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball18.png" group-title="LIVE | Football Events", 18. Football | No Event
 http://b1g.ooo:80/live/6073/6073/233899.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball19.png" group-title="LIVE | Football Events", 19. Eredivisie | Fortuna Sittard vs PSV (Sun 15:45 UK)
+#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball19.png" group-title="LIVE | Football Events", 19. Football | No Event
 http://b1g.ooo:80/live/6073/6073/233900.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball20.png" group-title="LIVE | Football Events", 20. Eredivisie | Fortuna Sittard vs PSV (Sun 15:45 UK)
+#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball20.png" group-title="LIVE | Football Events", 20. Football | No Event
 http://b1g.ooo:80/live/6073/6073/233901.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball21.png" group-title="LIVE | Football Events", 21. Football | No Event
