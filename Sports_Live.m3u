@@ -13,13 +13,13 @@ http://b1g.ooo:80/live/6073/6073/701060.ts
 #EXTINF:-1 tvg-id="TNTSportsBoxOffice.uk" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/09/TNTSBO.png" group-title="LIVE | PPV Events", TNT Sports Box Office HD
 http://b1g.ooo:80/live/6073/6073/701061.ts
 
-#EXTINF:-1 tvg-id="SkySportsBoxOffice.uk" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/UFC-Fight-Night.jpeg" group-title="LIVE | PPV Events", UFC Fight Night: Renato Moicano vs. Benoit Saint-Denis FHD (Sat 20:00 UK)
+#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/UFC-Fight-Night.jpeg" group-title="LIVE | PPV Events", UFC Fight Night: Renato Moicano vs. Benoit Saint-Denis FHD (Sat 20:00 UK)
 http://b1g.ooo:80/live/6073/6073/323540.ts
 
-#EXTINF:-1 tvg-id="SkySportsBoxOffice.uk" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/UFC-Fight-Night.jpeg" group-title="LIVE | PPV Events", UFC Fight Night: Renato Moicano vs. Benoit Saint-Denis HD (Sat 20:00 UK)
+#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/UFC-Fight-Night.jpeg" group-title="LIVE | PPV Events", UFC Fight Night: Renato Moicano vs. Benoit Saint-Denis HD (Sat 20:00 UK)
 http://b1g.ooo:80/live/6073/6073/323541.ts
 
-#EXTINF:-1 tvg-id="SkySportsBoxOffice.uk" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/Sandy-Ryan-vs-Mikaela-Mayer.jpeg" group-title="LIVE | PPV Events", BOXING: Sandy Ryan vs. Mikaela Mayer (Fri)
+#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/Sandy-Ryan-vs-Mikaela-Mayer.jpeg" group-title="LIVE | PPV Events", BOXING: Sandy Ryan vs. Mikaela Mayer (Fri)
 http://b1g.ooo:80/live/6073/6073/323542.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/DixonHarper.jpeg" group-title="LIVE | PPV Events", BOXING: Rhiannon Dixon vs. Terri Harper (Sat)
@@ -283,17 +283,11 @@ http://b1g.ooo:80/live/6073/6073/174940.ts
 #EXTINF:-1 tvg-id="EFL_Barnsley" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball4.png" group-title="LIVE | Football Events", 04. Carabao Cup | Manchester City vs Watford (Tue 19:45 UK)
 http://b1g.ooo:80/live/6073/6073/174941.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball5.png" group-title="LIVE | Football Events", 05. Carabao Cup | Manchester City vs Watford (Tue 19:45 UK)
-http://b1g.ooo:80/live/6073/6073/174952.ts
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball6.png" group-title="LIVE | Football Events", 06. Carabao Cup | Manchester City vs Watford (Tue 19:45 UK)
 http://b1g.ooo:80/live/6073/6073/174951.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball7.png" group-title="LIVE | Football Events", 07. Carabao Cup | Walsall vs Leicester City (Tue 19:45 UK)
 http://b1g.ooo:80/live/6073/6073/174950.ts
-
-#EXTINF:-1 tvg-id="UCL_UEL.2" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball8.png" group-title="LIVE | Football Events", 08. Carabao Cup | Walsall vs Leicester City (Tue 19:45 UK)
-http://b1g.ooo:80/live/6073/6073/174949.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/livefootball9.png" group-title="LIVE | Football Events", 09. Carabao Cup | Walsall vs Leicester City (Tue 19:45 UK)
 http://b1g.ooo:80/live/6073/6073/174948.ts
