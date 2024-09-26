@@ -637,11 +637,26 @@ http://b1g.ooo:80/live/6073/6073/35909.ts
 #EXTINF:-1 tvg-id="" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Now-Sports-HK-TV.png" group-title="SPORTS | Now HK", HK | Now HK Premier Sports 8
 http://b1g.ooo:80/live/6073/6073/35908.ts
 
-#EXTINF:-1 tvg-id="NowSportsPremierLeagueTV.hk" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/Now-Sports-PL.png" group-title="SPORTS | Now HK", HK | Now HK Premier League TV
+#EXTINF:-1 tvg-id="PremierLeagueTV.peacocktv" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/Now-Sports-PL.png" group-title="SPORTS | Now HK", HK | Now HK Premier League TV
 http://b1g.ooo:80/live/6073/6073/836295.ts
 
 #EXTINF:-1 tvg-id="NowSportsPrime.hk" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/Now-Sports-Prime.png" group-title="SPORTS | Now HK", HK | Now HK Sports Prime
 http://b1g.ooo:80/live/6073/6073/836281.ts
+
+#EXTINF:-1 tvg-id="NowSportsPlus.hk" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/NowSportsPlus.png" group-title="SPORTS | Now HK", HK | NowHK Sports Plus FHD
+http://b1g.ooo:80/live/6073/6073/842096.ts
+
+#EXTINF:-1 tvg-id="NowSports688.hk" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/Now-HK-Sports-688.png" group-title="SPORTS | Now HK", HK | NowHK Sports 688 FHD
+http://b1g.ooo:80/live/6073/6073/842095.ts
+
+#EXTINF:-1 tvg-id="NowSports681.hk" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/NowSports681.png" group-title="SPORTS | Now HK", HK | Now HK Sports 681 FHD
+http://b1g.ooo:80/live/6073/6073/842094.ts
+
+#EXTINF:-1 tvg-id="NowGolf2.hk" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/NowGolf2.png" group-title="SPORTS | Now HK", HK | NowHK Golf 2 FHD
+http://b1g.ooo:80/live/6073/6073/842093.ts
+
+#EXTINF:-1 tvg-id="NowGolf3.hk" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/NowGolf3.png" group-title="SPORTS | Now HK", HK | NowHK Golf 3 FHD
+http://b1g.ooo:80/live/6073/6073/842092.ts
 
 #EXTINF:-1 tvg-id="NowSports1.hk" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Now-Sports-1.png" group-title="SPORTS | Now HK", HK | Now Sports 1
 http://b1g.ooo:80/live/6073/6073/697701.ts
@@ -663,6 +678,30 @@ http://b1g.ooo:80/live/6073/6073/697706.ts
 
 #EXTINF:-1 tvg-id="NowSports7.hk" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Now-Sports-7.png" group-title="SPORTS | Now HK", HK | Now Sports 7
 http://b1g.ooo:80/live/6073/6073/697707.ts
+
+#EXTINF:-1 tvg-id="SPOTV.hk" tvg-logo="https://s9.gifyu.com/images/SUl6z.png" group-title="SPORTS | Now HK", HK | NowHK SPOTV FHD
+http://b1g.ooo:80/live/6073/6073/842097.ts
+
+#EXTINF:-1 tvg-id="SPOTV2.hk" tvg-logo="https://s9.gifyu.com/images/SUl6w.webp" group-title="SPORTS | Now HK", HK | NowHK SPOTV 2 FHD
+http://b1g.ooo:80/live/6073/6073/842091.ts
+
+#EXTINF:-1 tvg-id="beINSPORTS1.hk" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/MY-Bein-Sports.png" group-title="SPORTS | Now HK", HK | NowHK Bein 1 FHD
+http://b1g.ooo:80/live/6073/6073/842090.ts
+
+#EXTINF:-1 tvg-id="beINSPORTS2.hk" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/MY-Bein-Sports-2.png" group-title="SPORTS | Now HK", HK | NowHK beIN 2 FHD
+http://b1g.ooo:80/live/6073/6073/842089.ts
+
+#EXTINF:-1 tvg-id="beINSPORTS3.hk" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/MY-Bein-Sports-3.png" group-title="SPORTS | Now HK", HK | NowHK Bein 3 FHD
+http://b1g.ooo:80/live/6073/6073/842088.ts
+
+#EXTINF:-1 tvg-id="beINSPORTS4.hk" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/beIN-Sports-4.png" group-title="SPORTS | Now HK", HK | NowHK beIN 4 FHD
+http://b1g.ooo:80/live/6073/6073/842087.ts
+
+#EXTINF:-1 tvg-id="beINSPORTS5.hk" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/beinSports5.png" group-title="SPORTS | Now HK", HK | NowHK Bein 5 FHD
+http://b1g.ooo:80/live/6073/6073/842086.ts
+
+#EXTINF:-1 tvg-id="beINSPORTS6.hk" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/bein-Sports6.png" group-title="SPORTS | Now HK", HK | NowHK beIN 6 FHD
+http://b1g.ooo:80/live/6073/6073/842085.ts
 
 #EXTINF:-1 tvg-id="OptusSport1.au" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Optus-Sports-New-2.png" group-title="SPORTS | Optus / NZ Sky Sports", AUS | Optus 1 HD
 http://b1g.ooo:80/live/6073/6073/35920.ts
@@ -729,6 +768,12 @@ http://b1g.ooo:80/live/6073/6073/696480.ts
 
 #EXTINF:-1 tvg-id="SkySportSelect.nz" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/06/Sky-Sports-Select.png" group-title="SPORTS | Optus / NZ Sky Sports", NZ | Sky Sports Select
 http://b1g.ooo:80/live/6073/6073/697715.ts
+
+#EXTINF:-1 tvg-id="SKYSportPopup1.nz" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/NZ-Sky-Sports-Popup-1.png" group-title="SPORTS | Optus / NZ Sky Sports", NZ | Sky Sports Pop-Up 1
+http://b1g.ooo:80/live/6073/6073/842083.ts
+
+#EXTINF:-1 tvg-id="SKYSportPopup2.nz" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/Sky-Sports-Popup-2.png" group-title="SPORTS | Optus / NZ Sky Sports", NZ | Sky Sports Pop-Up 2
+http://b1g.ooo:80/live/6073/6073/842084.ts
 
 #EXTINF:-1 tvg-id="NBCSportsonPeacock.peacocktv" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/PeacockNBCSports.png" group-title="SPORTS | Peacock", Peacock NBC Sports
 http://b1g.ooo:80/live/6073/6073/405295.ts
