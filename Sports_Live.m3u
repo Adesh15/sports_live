@@ -13,22 +13,22 @@ http://b1g.ooo:80/live/6073/6073/701060.ts
 #EXTINF:-1 tvg-id="TNTSportsBoxOffice.uk" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/09/TNTSBO.png" group-title="LIVE | PPV Events", TNT Sports Box Office HD
 http://b1g.ooo:80/live/6073/6073/701061.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/UFC307.jpeg" group-title="LIVE | PPV Events", UFC 307: Alex Pereira vs. Khalil Rountree FHD (Sat 23:00 UK)
+#EXTINF:-1 tvg-id="CheckFixtures.bossdummy" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/UFC307.jpeg" group-title="LIVE | PPV Events", UFC 307: Alex Pereira vs. Khalil Rountree FHD (Sat 23:00 UK)
 http://b1g.ooo:80/live/6073/6073/323540.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/UFC307.jpeg" group-title="LIVE | PPV Events", UFC 307: Alex Pereira vs. Khalil Rountree HD (Sat 23:00 UK)
+#EXTINF:-1 tvg-id="CheckFixtures.bossdummy" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/UFC307.jpeg" group-title="LIVE | PPV Events", UFC 307: Alex Pereira vs. Khalil Rountree HD (Sat 23:00 UK)
 http://b1g.ooo:80/live/6073/6073/323541.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/BadBloodWWE.jpg" group-title="LIVE | PPV Events", WWE: Bad Blood (Sat)
+#EXTINF:-1 tvg-id="CheckFixtures.bossdummy" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/BadBloodWWE.jpg" group-title="LIVE | PPV Events", WWE: Bad Blood (Sat)
 http://b1g.ooo:80/live/6073/6073/323542.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/Nick-Ball-vs-Ronny-Rios.jpeg" group-title="LIVE | PPV Events", BOXING: Nick Ball vs. Ronny Rios (Sat)
+#EXTINF:-1 tvg-id="CheckFixtures.bossdummy" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/Nick-Ball-vs-Ronny-Rios.jpeg" group-title="LIVE | PPV Events", BOXING: Nick Ball vs. Ronny Rios (Sat)
 http://b1g.ooo:80/live/6073/6073/323545.ts
 
-#EXTINF:-1 tvg-id="PPV01.rtv" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent-1.png" group-title="LIVE | PPV Events", LIVE EVENT 01 - 6PM House of Glory Believe In The Glory
+#EXTINF:-1 tvg-id="PPV01.rtv" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent-1.png" group-title="LIVE | PPV Events", LIVE EVENT 01 - NO EVENT
 http://b1g.ooo:80/live/6073/6073/185089.ts
 
-#EXTINF:-1 tvg-id="PPV02.rtv" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent2.png" group-title="LIVE | PPV Events", LIVE EVENT 02 -  2:30PM USAC BC39 Dirt Track
+#EXTINF:-1 tvg-id="PPV02.rtv" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent2.png" group-title="LIVE | PPV Events", LIVE EVENT 02 -  NO EVENT
 http://b1g.ooo:80/live/6073/6073/185090.ts
 
 #EXTINF:-1 tvg-id="PPV03.rtv" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent3.png" group-title="LIVE | PPV Events", LIVE EVENT 03 - NO EVENT
