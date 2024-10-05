@@ -40,10 +40,10 @@ http://b1g.ooo:80/live/6073/6073/185092.ts
 #EXTINF:-1 tvg-id="PPV05.rtv" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent5.png" group-title="LIVE | PPV Events", LIVE EVENT 05 - 2PM Waseem v Cebekhulu
 http://b1g.ooo:80/live/6073/6073/174932.ts
 
-#EXTINF:-1 tvg-id="PPV06.rtv" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent6.png" group-title="LIVE | PPV Events", LIVE EVENT 06 - 2PM wXw World Tag Team Festival Night 1
+#EXTINF:-1 tvg-id="PPV06.rtv" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent6.png" group-title="LIVE | PPV Events", LIVE EVENT 06 - NO EVENT
 http://b1g.ooo:80/live/6073/6073/174934.ts
 
-#EXTINF:-1 tvg-id="PPV07.rtv" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent7.png" group-title="LIVE | PPV Events", LIVE EVENT 07 - 6PM House of Glory Believe In The Glory
+#EXTINF:-1 tvg-id="PPV07.rtv" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent7.png" group-title="LIVE | PPV Events", LIVE EVENT 07 - NO EVENT
 http://b1g.ooo:80/live/6073/6073/174935.ts
 
 #EXTINF:-1 tvg-id="PPV08.rtv" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent8.png" group-title="LIVE | PPV Events", LIVE EVENT 08 - 6PM wXw Extreme Wrestling Party
@@ -58,13 +58,13 @@ http://b1g.ooo:80/live/6073/6073/174933.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent11.png" group-title="LIVE | PPV Events", LIVE EVENT 11 - 8:30PM Unified MMA 59
 http://b1g.ooo:80/live/6073/6073/233873.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent12.png" group-title="LIVE | PPV Events", LIVE EVENT 12 - 10PM Fusion Fighting Championship 82
+#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent12.png" group-title="LIVE | PPV Events", LIVE EVENT 12 - 10PM (ESP) Fusion Fighting Championship 82
 http://b1g.ooo:80/live/6073/6073/233874.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent13.png" group-title="LIVE | PPV Events", LIVE EVENT 13 - 10AM PDRA Drag Wars
 http://b1g.ooo:80/live/6073/6073/233875.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent14.png" group-title="LIVE | PPV Events", LIVE EVENT 14 - 5PM MWDRS Texas Tango Nationals
+#EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent14.png" group-title="LIVE | PPV Events", LIVE EVENT 14 - NO EVENT
 http://b1g.ooo:80/live/6073/6073/233876.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent15.png" group-title="LIVE | PPV Events", LIVE EVENT 15 - 5:30PM Weekly Racing Stafford
@@ -451,7 +451,7 @@ http://b1g.ooo:80/live/6073/6073/256513.ts
 #EXTINF:-1 tvg-id="OptusSport1.au" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/EPL-Goalrush.png" group-title="LIVE | EPL Events", 01. EPL | Goal Rush Match Day # 6 (Sat 15:00 UK)
 http://b1g.ooo:80/live/6073/6073/713930.ts
 
-#EXTINF:-1 tvg-id="SKYSport8.nz" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/EPL-Goalrush.png" group-title="LIVE | EPL Events", 02. EPL | Goal Rush Match Day # 6 (Sat 15:00 UK)
+#EXTINF:-1 tvg-id="SKYSport8.nz" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/EPL-Goalrush.png" group-title="LIVE | EPL Events", 02. EPL | Goal Rush Match Day # 7 (Sat 15:00 UK)
 http://b1g.ooo:80/live/6073/6073/713931.ts
 
 #EXTINF:-1 tvg-id="CrystalPalace.epl" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/premierleague.png" group-title="LIVE | EPL Events", 03. EPL 01 | Crystal Palace vs Liverpool (Sat 12:30 UK)
