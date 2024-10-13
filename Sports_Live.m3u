@@ -1,6 +1,12 @@
 #EXTM3U x-tvg-url="http://b1g.ooo/xmltv.php?username=6073&password=6073"
 
 
+#EXTINF:-1 tvg-id="CheckFixtures.bossdummy" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/CADAZNPPVWhite.png" group-title="LIVE | PPV Events", DAZN PPV FHD
+http://b1g.ooo:80/live/6073/6073/847486.ts
+
+#EXTINF:-1 tvg-id="CheckFixtures.bossdummy" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/CADAZNPPVWhite.png" group-title="LIVE | PPV Events", DAZN PPV HD
+http://b1g.ooo:80/live/6073/6073/847485.ts
+
 #EXTINF:-1 tvg-id="SkySportsBoxOffice.uk" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/09/SSBoxOffice.png" group-title="LIVE | PPV Events", Sky Sports Box Office FHD
 http://b1g.ooo:80/live/6073/6073/701058.ts
 
@@ -22,13 +28,13 @@ http://b1g.ooo:80/live/6073/6073/323541.ts
 #EXTINF:-1 tvg-id="CheckFixtures.bossdummy" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Artur-Beterbiev-vs-Dmitry-Bivol-.png" group-title="LIVE | PPV Events", BOXING: Artur Beterbiev vs. Dmitry Bivol FHD (Sat 17:00 UK)
 http://b1g.ooo:80/live/6073/6073/323542.ts
 
-#EXTINF:-1 tvg-id="CheckFixtures.bossdummy" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Artur-Beterbiev-vs-Dmitry-Bivol-.png" group-title="LIVE | PPV Events", BOXING: Artur Beterbiev vs. Dmitry Bivol HD (Sat 17:00 UK)
+#EXTINF:-1 tvg-id="CheckFixtures.bossdummy" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/WrestleDream.jpeg" group-title="LIVE | PPV Events", AEW: WrestleDream (Sun 01:00 UK)
 http://b1g.ooo:80/live/6073/6073/323545.ts
 
 #EXTINF:-1 tvg-id="CheckFixtures.bossdummy" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent-1.png" group-title="LIVE | PPV Events", LIVE EVENT 01 - 4/7PM UFC Fight Night Royval v Taira
 http://b1g.ooo:80/live/6073/6073/185089.ts
 
-#EXTINF:-1 tvg-id="CheckFixtures.bossdummy" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent2.png" group-title="LIVE | PPV Events", LIVE EVENT 02 - 12/6PM IV Crown Showdown Beterbiev v Bivol
+#EXTINF:-1 tvg-id="CheckFixtures.bossdummy" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent2.png" group-title="LIVE | PPV Events", LIVE EVENT 02 - NO EVENT
 http://b1g.ooo:80/live/6073/6073/185090.ts
 
 #EXTINF:-1 tvg-id="CheckFixtures.bossdummy" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent3.png" group-title="LIVE | PPV Events", LIVE EVENT 03 - 6:30/8PM AEW WrestleDream
@@ -37,10 +43,10 @@ http://b1g.ooo:80/live/6073/6073/185091.ts
 #EXTINF:-1 tvg-id="CheckFixtures.bossdummy" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent4.png" group-title="LIVE | PPV Events", LIVE EVENT 04 - 12PM Glory 96 Kwasi v Beztati
 http://b1g.ooo:80/live/6073/6073/185092.ts
 
-#EXTINF:-1 tvg-id="CheckFixtures.bossdummy" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent5.png" group-title="LIVE | PPV Events", LIVE EVENT 05 - 12PM Oktagon 62
+#EXTINF:-1 tvg-id="CheckFixtures.bossdummy" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent5.png" group-title="LIVE | PPV Events", LIVE EVENT 05 - NO EVENT
 http://b1g.ooo:80/live/6073/6073/174932.ts
 
-#EXTINF:-1 tvg-id="CheckFixtures.bossdummy" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent6.png" group-title="LIVE | PPV Events", LIVE EVENT 06 - 1PM BKFC Marbella
+#EXTINF:-1 tvg-id="CheckFixtures.bossdummy" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent6.png" group-title="LIVE | PPV Events", LIVE EVENT 06 - NO EVENT
 http://b1g.ooo:80/live/6073/6073/174934.ts
 
 #EXTINF:-1 tvg-id="CheckFixtures.bossdummy" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent7.png" group-title="LIVE | PPV Events", LIVE EVENT 07 - 5PM BYB 32 Leeds Brawl
@@ -76,7 +82,7 @@ http://b1g.ooo:80/live/6073/6073/233877.ts
 #EXTINF:-1 tvg-id="CheckFixtures.bossdummy" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent17.png" group-title="LIVE | PPV Events", LIVE EVENT 17 - 9AM No Mercy 15
 http://b1g.ooo:80/live/6073/6073/233878.ts
 
-#EXTINF:-1 tvg-id="CheckFixtures.bossdummy" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent18.png" group-title="LIVE | PPV Events", LIVE EVENT 18 - 11:20AM Smart Modifieds South Boston
+#EXTINF:-1 tvg-id="CheckFixtures.bossdummy" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent18.png" group-title="LIVE | PPV Events", LIVE EVENT 18 - NO EVENT
 http://b1g.ooo:80/live/6073/6073/233879.ts
 
 #EXTINF:-1 tvg-id="CheckFixtures.bossdummy" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent19.png" group-title="LIVE | PPV Events", LIVE EVENT 19 - 1:30PM Super DIRT Week
@@ -88,7 +94,7 @@ http://b1g.ooo:80/live/6073/6073/233881.ts
 #EXTINF:-1 tvg-id="CheckFixtures.bossdummy" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent21.png" group-title="LIVE | PPV Events", LIVE EVENT 21 - 5:15PM World of Outlaws Sprint Cars
 http://b1g.ooo:80/live/6073/6073/233882.ts
 
-#EXTINF:-1 tvg-id="CheckFixtures.bossdummy" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent22.png" group-title="LIVE | PPV Events", LIVE EVENT 22 - 5:30PM American All Star Series Georgetown
+#EXTINF:-1 tvg-id="CheckFixtures.bossdummy" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent22.png" group-title="LIVE | PPV Events", LIVE EVENT 22 - NO EVENT
 http://b1g.ooo:80/live/6073/6073/233883.ts
 
 #EXTINF:-1 tvg-id="CheckFixtures.bossdummy" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent23.png" group-title="LIVE | PPV Events", LIVE EVENT 23 - 6PM USAC Fall Nationals Lawrenceburg
