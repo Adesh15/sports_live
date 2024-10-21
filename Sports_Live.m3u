@@ -31,13 +31,13 @@ http://b1g.ooo:80/live/6073/6073/323542.ts
 #EXTINF:-1 tvg-id="CheckFixtures.bossdummy" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Tim-Tszyu-vs-Bakhram-Murtazaliev.jpg" group-title="LIVE | PPV Events", BOXING: Tim Tszyu vs Bakhram Murtazaliev (Sun 01:00 UK)
 http://b1g.ooo:80/live/6073/6073/323545.ts
 
-#EXTINF:-1 tvg-id="CheckFixtures.bossdummy" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent-1.png" group-title="LIVE | PPV Events", LIVE EVENT 01 - 10AM PDRA Brian Olson World Finals
+#EXTINF:-1 tvg-id="CheckFixtures.bossdummy" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent-1.png" group-title="LIVE | PPV Events", LIVE EVENT 01 - NO EVENT
 http://b1g.ooo:80/live/6073/6073/185089.ts
 
-#EXTINF:-1 tvg-id="CheckFixtures.bossdummy" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent2.png" group-title="LIVE | PPV Events", LIVE EVENT 02 - 12:30PM Championship Weekend Riverhead
+#EXTINF:-1 tvg-id="CheckFixtures.bossdummy" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent2.png" group-title="LIVE | PPV Events", LIVE EVENT 02 - NO EVENT
 http://b1g.ooo:80/live/6073/6073/185090.ts
 
-#EXTINF:-1 tvg-id="CheckFixtures.bossdummy" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent3.png" group-title="LIVE | PPV Events", LIVE EVENT 03 - 5PM USRA Fall Nationals
+#EXTINF:-1 tvg-id="CheckFixtures.bossdummy" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent3.png" group-title="LIVE | PPV Events", LIVE EVENT 03 - NO EVENT
 http://b1g.ooo:80/live/6073/6073/185091.ts
 
 #EXTINF:-1 tvg-id="CheckFixtures.bossdummy" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent4.png" group-title="LIVE | PPV Events", LIVE EVENT 04 - 7PM Maple Leaf Pro Wrestling Forged in Excellence
@@ -433,7 +433,7 @@ http://b1g.ooo:80/live/6073/6073/256497.ts
 #EXTINF:-1 tvg-id="Liverpool.epl" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/Liverpool.png" group-title="LIVE | EPL Hub", LIVERPOOL F.C (Sun 16:30 UK)
 http://b1g.ooo:80/live/6073/6073/256498.ts
 
-#EXTINF:-1 tvg-id="ManchesterCity.epl" tvg-logo="http://b1g.us/logos/EPLHub/ManchesterCity.png" group-title="LIVE | EPL Hub", MANCHESTER CITY F.C (Sun 14:00 UK)
+#EXTINF:-1 tvg-id="ManchesterCity.epl" tvg-logo="http://b1g.us/logos/EPLHub/ManchesterCity.png" group-title="LIVE | EPL Hub", MANCHESTER CITY F.C (MATCH-TIME ONLY)
 http://b1g.ooo:80/live/6073/6073/256499.ts
 
 #EXTINF:-1 tvg-id="ManchesterUnited.epl" tvg-logo="http://b1g.us/logos/EPLHub/ManchesterUnited.png" group-title="LIVE | EPL Hub", MANCHESTER UNITED F.C (MATCH-TIME ONLY)
@@ -454,7 +454,7 @@ http://b1g.ooo:80/live/6073/6073/256510.ts
 #EXTINF:-1 tvg-id="WestHamUnited.epl" tvg-logo="http://b1g.us/logos/EPLHub/WestHam.png" group-title="LIVE | EPL Hub", WEST HAM UNITED F.C (MATCH-TIME ONLY)
 http://b1g.ooo:80/live/6073/6073/256512.ts
 
-#EXTINF:-1 tvg-id="WolverhamptonWanderers.epl" tvg-logo="http://b1g.us/logos/EPLHub/Wolves.png" group-title="LIVE | EPL Hub", WOLVERHAMPTON WANDERERS F.C (Sun 14:00 UK)
+#EXTINF:-1 tvg-id="WolverhamptonWanderers.epl" tvg-logo="http://b1g.us/logos/EPLHub/Wolves.png" group-title="LIVE | EPL Hub", WOLVERHAMPTON WANDERERS F.C (MATCH-TIME ONLY)
 http://b1g.ooo:80/live/6073/6073/256513.ts
 
 #EXTINF:-1 tvg-id="OptusSport1.au" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/EPL-Goalrush.png" group-title="LIVE | EPL Events", 01. EPL | Goal Rush Match Day # 8 (Sat 15:00 UK)
